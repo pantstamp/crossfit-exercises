@@ -1,0 +1,17 @@
+{
+	"exercises": [	
+		{
+			"id":"1",
+			"name":"back squat",
+			"video_url":"https://www.youtube.com/watch?v=ultWZbUMPL8",
+			"icon_url":""
+		},
+				
+		{
+			"id":"2",
+			"name":"front squat",
+			"video_url":"https://www.youtube.com/watch?v=m4ytaCJZpl0",
+			"icon_url":""
+		}
+	]
+}
